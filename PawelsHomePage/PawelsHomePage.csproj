@@ -8,4 +8,13 @@
     <PackageReference Include="Microsoft.AspNetCore.App" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\IntermittentFasting\" />
+    <Folder Include="Views\KetoDiet\" />
+    <Folder Include="Views\MySetup\" />
+    <Folder Include="Views\Exercise\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Views\IntermittentFastingResources\Index.cshtml" />
+  </ItemGroup>
 </Project>

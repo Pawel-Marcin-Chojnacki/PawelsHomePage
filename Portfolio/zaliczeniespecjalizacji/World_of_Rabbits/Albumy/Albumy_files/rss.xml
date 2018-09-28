@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>World of Rabbits</title>
+    <link>http://zaliczeniespecjalizacji.cba.pl/World_of_Rabbits/Albumy/Albumy.html</link>
+    <description>Znajdują się tutaj albumy zdjęć królików, znalezione w internecie. Nie posiadam praw autorskich do tych zdjęć. </description>
+    <item>
+      <title>Fotki z psami</title>
+      <link>http://zaliczeniespecjalizacji.cba.pl/World_of_Rabbits/Albumy/Pages/Fotki_z_psami.html</link>
+      <guid isPermaLink="false">dfe36df1-cb7b-4a35-90ee-2227781fa873</guid>
+    </item>
+    <item>
+      <title>Album Główny</title>
+      <link>http://zaliczeniespecjalizacji.cba.pl/World_of_Rabbits/Albumy/Pages/Album_Gowny.html</link>
+      <guid isPermaLink="false">9c097c5c-b149-4171-a215-8b0012b1cb23</guid>
+    </item>
+  </channel>
+</rss>

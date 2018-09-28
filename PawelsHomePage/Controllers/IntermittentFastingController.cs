@@ -8,9 +8,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace PawelsHomePage.Controllers
 {
-    public class IntermittentFastingResourcesController : Controller
+    public class IntermittentFastingController : Controller
     {
-        // GET: /<IntermittentFastingResources>/
+        // GET: /IntermittentFasting/
         public IActionResult Index()
         {
             return View();
