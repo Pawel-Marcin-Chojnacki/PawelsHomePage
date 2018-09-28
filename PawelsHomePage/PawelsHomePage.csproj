@@ -17,4 +17,7 @@
   <ItemGroup>
     <Content Remove="Views\IntermittentFastingResources\Index.cshtml" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Views\Home\Portfolio.cshtml.cs" />
+  </ItemGroup>
 </Project>
