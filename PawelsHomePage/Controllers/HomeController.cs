@@ -39,6 +39,11 @@ namespace PawelsHomePage.Controllers
             return View();
         }
 
+        public IActionResult Blog()
+        {
+            return Redirect("https://pmchojnacki.azurewebsites.net/");
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
